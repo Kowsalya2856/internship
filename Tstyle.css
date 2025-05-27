@@ -1,0 +1,22 @@
+body{
+    padding:25px;
+}
+.tittle{
+    color: blue;
+}
+.container{
+    margin: 40px auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:15px;
+}
+button{
+    padding:12 px 30 px;
+    font-size: 18px;
+    background-color: yellow;
+    color: white;
+    border:none;
+    border-radius: 15px;
+    cursor: pointer;
+}
